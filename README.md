@@ -1,4 +1,4 @@
-# Ohayo 
+# Ohayo   
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/moham8l/moham8l/blob/main/assets/208593.gif">
@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME  :
+# About me  :
 
 Data Scientist with strong math background and 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
 
@@ -56,6 +56,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </p>
  </p>
  
+# Support:
+<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br> 
 
 </br>
 </br>
@@ -83,7 +85,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
  </p>
-<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br> 
-<div align="left">
-<p> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p></div>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
 *************
