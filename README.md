@@ -3,7 +3,7 @@
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/moham8l/moham8l/blob/main/assets/208593.gif">
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
 </br>
 </br>
 </br>
@@ -91,7 +91,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img  src="https://github-readme-stats.vercel.app/api?username=moham8l&&show_icons=true&theme=radical"/>
   </a>
   </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moham8l&show_icons=true&locale=en&layout=compact" alt="moham8l" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
 
