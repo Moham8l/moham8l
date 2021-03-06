@@ -79,5 +79,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moham8l&" alt="moham8l" /></p>
 
 </div>
+<br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
 *************
