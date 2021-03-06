@@ -84,8 +84,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
   </p>
 
-<div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
 
 
 
