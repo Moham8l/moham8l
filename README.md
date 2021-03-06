@@ -52,11 +52,14 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:mbhrr8859@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/moham8l/moham8l/blob/main/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-amanna-665a49203/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/moham8l/moham8l/blob/main/assets/icons/linkedin.png" />
+<p align="left">
+<a href="https://twitter.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moham8l" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-amanna-665a49203" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed-amanna-665a49203" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="moham8l" height="30" width="40" /></a>
+<a href="https://kaggle.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="moham8l" height="30" width="40" /></a>
+<a href="https://medium.com/@moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@moham8l" height="30" width="40" /></a>
+</p>
+
 </br>
 </br>
 </br>
