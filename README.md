@@ -10,8 +10,10 @@
 
 
 # About ME 💬 :
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/moham8l/moham8l/blob/main/assets/1936.gif">
-### Data Scientist with strong math background and 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
+
+### - Data Scientist with strong math background and 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/moham8l/moham8l/blob/master/assets/1936.gif">
 
 
 </br>
@@ -84,7 +86,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moham8l&" alt="moham8l" />
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
 *************
