@@ -13,8 +13,9 @@
 
 Data Scientist with strong math background and 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/moham8l/moham8l/blob/main/assets/1936.gif">
-
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/moham8l/moham8l/blob/main/assets/1936.gif">
+</div>
 
 </br>
 </br>
@@ -85,7 +86,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moham8l&show_icons=true&locale=en&layout=compact" alt="moham8l" /></p>
 
 
 
