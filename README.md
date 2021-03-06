@@ -55,9 +55,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://medium.com/@moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@moham8l" height="50" width="60" /></a>
 </p>
  </p>
- 
+ </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 # Support:
-<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br> 
+<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="moham8l" /></a></p><br><br> 
 
 </br>
 </br>
@@ -88,4 +95,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
-*************
+***************
