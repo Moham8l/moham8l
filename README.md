@@ -23,7 +23,7 @@ Data Scientist with strong math background and 2+ years of experience using pred
 
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
+<br>
 
 <p align="center">
 
@@ -87,7 +87,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moham8l&show_icons=true&locale=en&layout=compact" alt="moham8l" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moham8l&show_icons=true&locale=en" alt="moham8l" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moham8l&" alt="moham8l" /></p>
 
