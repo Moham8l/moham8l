@@ -1,4 +1,4 @@
-# Ohayo Sama 👋
+# Ohayo 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/moham8l/moham8l/blob/main/assets/208593.gif">
@@ -9,7 +9,7 @@
 </br>
 
 
-# About ME 💬 :
+# About ME  :
 
 Data Scientist with strong math background and 2+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems. Involved in Python open source community and passionate about deep reinforcement learning.
 
@@ -23,7 +23,7 @@ Data Scientist with strong math background and 2+ years of experience using pred
 
 
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools :
 <br>
 
 <p align="center">
@@ -56,7 +56,7 @@ Data Scientist with strong math background and 2+ years of experience using pred
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/moham8l/moham8l/blob/main/assets/93195.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me. I love to be with, and work with people who can push me beyond the limits and believe in continous evolution😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me. I love to be with, and work with people who can push me beyond the limits and believe in continous evolution.
 
 <p align="left">
 <a href="https://twitter.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moham8l" height="30" width="40" /></a>
@@ -85,7 +85,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </p>
 
 
-
+<div align="center">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moham8l&" alt="moham8l" /></p>
 
