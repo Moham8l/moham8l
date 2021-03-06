@@ -48,7 +48,7 @@ Data Scientist with strong math background and 2+ years of experience using pred
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me. I love to be with, and work with people who can push me beyond the limits and believe in continous evolution.
 
 <p align="left">
-<a href="https://twitter.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moham8l" height="30" width="40" /></a>
+<a href="https://twitter.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moham8l" height="50" width="60" /></a>
 <a href="https://linkedin.com/in/mohamed-amanna-665a49203" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohamed-amanna-665a49203" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="moham8l" height="30" width="40" /></a>
 <a href="https://kaggle.com/moham8l" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="moham8l" height="30" width="40" /></a>
