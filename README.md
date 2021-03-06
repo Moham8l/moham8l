@@ -65,7 +65,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br>
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -83,7 +84,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <br>
   <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
  </p>
- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
 *************
