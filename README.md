@@ -65,7 +65,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-<h3 align="left">Support:</h3>
+# Support :
 <p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="moham8l" /></a></p><br><br>
 
 <p align="center" >  
