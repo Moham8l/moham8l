@@ -1,4 +1,4 @@
-# Ohayo   
+# Ohayo 👋🏽 
 
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/moham8l/moham8l/blob/main/assets/208593.gif">
@@ -64,7 +64,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 # Support:
 <p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="moham8l" /></a></p><br><br> 
-
+<p align="right">
+ If you like what I do, maybe consider buying me a coffee/tea</p>
 </br>
 </br>
 </br>
@@ -94,4 +95,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
-*****************
+****************
