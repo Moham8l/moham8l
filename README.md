@@ -60,8 +60,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-</br>
-</br>
+
 
 # Support:
 <p><a href="https://www.buymeacoffee.com/moham8l"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="200" alt="moham8l" /></a></p><br><br> 
@@ -95,4 +94,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moham8l&label=Profile%20views&color=0e75b6&style=flat" alt="moham8l" /> </p>
-***************
+*****************
